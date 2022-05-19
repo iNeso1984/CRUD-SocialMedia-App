@@ -75,9 +75,9 @@ let addName = (e) => {
 
 //input name
 let nameInfo = () => {
-  let fistName = "Jane";
+  let firstName = "Jane";
   let lastName = "Doe";
-  let full = `${fistName}  ${lastName}`;
+  let full = `${firstName}  ${lastName}`;
   addName(full);
 };
 nameInfo();
