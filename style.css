@@ -58,6 +58,9 @@ button {
   margin-top: 20px;
   cursor: pointer;
 }
+button:hover{
+  color:red;
+}
 #like {
   cursor: pointer;
 }
